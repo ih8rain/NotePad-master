@@ -68,4 +68,4 @@ NodePadProvider
         int[] viewIDs = { android.R.id.text1,R.id.text2,};
 ```
 完成后如下图。
-![](https://github.com/ih8rain/NotePad-master/blob/master/images/%E6%97%B6%E9%97%B4%E6%88%B3.png)
+### ![](https://github.com/ih8rain/NotePad-master/blob/master/images/%E6%97%B6%E9%97%B4%E6%88%B3.png)
