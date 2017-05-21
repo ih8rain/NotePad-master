@@ -116,7 +116,7 @@ private SearchView searchView;
         searchView.setQueryHint("Search");
 ```
 完成后如下图。
-### ![https://github.com/ih8rain/NotePad-master/blob/master/images/%E6%9F%A5%E8%AF%A2.png]
+### ![](https://github.com/ih8rain/NotePad-master/blob/master/images/%E6%9F%A5%E8%AF%A2.png)
 ## 3.修改背景色
 为了保存用户修改过的背景色，新建一个PreferencesService类。
 ```
