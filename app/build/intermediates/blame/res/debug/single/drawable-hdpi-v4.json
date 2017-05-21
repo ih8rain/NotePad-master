@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bgp1.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\bgp1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bgp2.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\NotePad-master\\NotePad-master\\app\\src\\main\\res\\drawable-hdpi\\bgp2.jpg"
+    }
+]

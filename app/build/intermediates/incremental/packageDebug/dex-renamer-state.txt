@@ -1,0 +1,7 @@
+#Sun May 21 17:38:14 CST 2017
+base.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_96326c6297caf748a85ec50c917da0176870c3b4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Administrator\\AndroidStudioProjects\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_feaebaffa28b3861b00c437d70454ae1c0cdbeb0\\classes.dex
+base.1=C\:\\Users\\Administrator\\AndroidStudioProjects\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_feaebaffa28b3861b00c437d70454ae1c0cdbeb0
+file.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\NotePad-master\\NotePad-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_96326c6297caf748a85ec50c917da0176870c3b4\\classes.dex
