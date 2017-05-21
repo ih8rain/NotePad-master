@@ -1,2 +1,5 @@
 # NotePad
-This is an AndroidStudio rebuild of google SDK sample NotePad
+功能如下：
+* 添加时间戳
+* 查询
+* 修改背景色
